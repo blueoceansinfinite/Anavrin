@@ -1,11 +1,12 @@
 ---
-title: "Anavrin"
+title: "Alice in Coderland"
 ---
 
-This is a Quarto website.
+A rule of thumb that has stood the test of time and have gauged humanity to advancement, is curiosity. Question everything, even if it sounds absurd. Chance and happenstance are intriguing, as they infer to something that is uncontrollable and the oblivious. Yet, they somehow seem predictable, they occur in a pattern. This exactly is where the notion of order in chaos roots from.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We don't just see things as they are, we question every single aspect of it, until be squeeze every last bit of oblivion from that concept.
 
-```{r}
-1 + 1
+The coding environment in and of itself can be viewed as a heterotopia. For some, it comes with ease, for some it is frustrating and some bite their fingers in the process. Here, I like to believe in Nietzsche's prospect of "will to power" and persist on my expedition to learn more.
+
+```{}
 ```
