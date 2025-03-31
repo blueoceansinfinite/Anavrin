@@ -4,7 +4,5 @@ title: "About"
 
 About this site
 
-```{}
-```
 
 My name is Anonimity, i guess I am omnipresent.
