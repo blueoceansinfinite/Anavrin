@@ -8,5 +8,5 @@ We don't just see things as they are, we question every single aspect of it, unt
 
 The coding environment in and of itself can be viewed as a heterotopia. For some, it comes with ease, for some it is frustrating and some bite their fingers in the process. Here, I like to believe in Nietzsche's prospect of "will to power" and persist on my expedition to learn more.
 
-```{}
+```         
 ```
