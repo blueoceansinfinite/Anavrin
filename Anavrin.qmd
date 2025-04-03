@@ -1,15 +1,16 @@
----
-title: "The Garden"
-format: html
----
+## A1: Generative Garden
 
-\## A1: Generative Garden
+Rayna Singh, Diya Bijoy, Aanya Pandith, Naman Rajoria, Soumya Saboo
 
-Rayna Singh, Aanya Pandith, Diya Bijoy, Naman Rajoria, Soumya Saboo
+![Image of Generative Garden](garden.jpg)
 
-### Concept Note
+| ![](garden2.jpg) | ![](garden3.jpg) |
+|------------------|------------------|
+| ![](garden4.jpg) | ![](garden5.jpg) |
 
-\
+[Link to P5.js code](https://editor.p5js.org/rayna20singh20/full/6R4QG9ZLs)
+
+<br> \### Concept Note\
 In Islamic culture, creating a garden is equivalent to building a piece of heaven on earth. The main objective of this art piece is to fabricate an immersive 3D garden that reimagines natural landscapes through digital media using code. The title “Anavrin,” is Nirvana spelled backwards, the reason for initiating this title is to reinstate the serenity that a garden brings to the visitor. Our main objective is to mirror a real-world garden, or rather our interpretation of the same, onto a digital stage. Hence, we use the mirror as our main conduit for this exercise and hold up a mirror on the word ‘Nirvana.’ Nirvana can be interpreted as a place or state of oblivion to care, pain, or external reality.
 
 Our intent wasn’t just to create a mere replication of a garden using the varied and vibrant mathematical functions that we learnt. Rather, we wanted to create a body of work that echoes it’s origin, that is laid with embedded metaphors and meaning. We wanted it to be both a visual and philosophical exploration and creation.
@@ -25,13 +26,13 @@ Using p5.js, WEBL and learning how to put everything together felt difficult and
 
 -   The flower shape is defined using parametric equations in polar coordinates.
 
--   In the code, this equation generates radial symmetry, giving the flower a structured petal arrangement.
+-   In the code, this equation generates radial symmetry which gives the flowers a structured petal arrangement.
 
 `<iframe src="https://editor.p5js.org/Sabootage-420/full/5Fg8Dmw3F"`{=html} `height= '600' width='800'></iframe>`{=html}
 
 `<iframe src="https://editor.p5js.org/Sabootage-420/full/5VZoFRbds"`{=html} `height= '600' width='800'></iframe>`{=html}
 
-`<iframe src="https://editor.p5js.org/Sabootage-420/full/rF8EcnjeS"`{=html} `height= '600' width='800'></iframe>`{=html}\
+`<iframe src="https://editor.p5js.org/rayna20singh20/full/RsEb7jKa0"`{=html} `height= '600' width='800'></iframe>`{=html}\
 \
 <iframe src="https://editor.p5js.org/AanyaPandith/full/d0cGEHKk8" height= '600' width='800'></iframe>\
 \
@@ -45,7 +46,7 @@ Math Concept: Julia Fractals
 
 -   The rule takes a number, changes it using a formula and checks if it stays small or grows big.
 
--   In the code, it creates a procedural landscape where blue areas represent water, and green areas represent land.
+-   In the code, it creates a procedural landscape where blue areas represent water and green areas represent land.
 
 <iframe src="https://editor.p5js.org/rayna20singh20/full/s1X5v9BHc" height="600" width="800">
 
@@ -66,7 +67,8 @@ Math Concept: Geometric Progression
 
 </iframe>
 
-**4) Butterflies**\
+**\
+4) Butterflies**\
 Math Concept: Circular Motion
 
 -   Circular motion describes movement along a curved path where an object's position changes based on sine and cosine functions.
@@ -79,10 +81,8 @@ Math Concept: Circular Motion
 
 </iframe>
 
-\
-\
-
-**6) Clouds**\
+**\
+6) Clouds**\
 Math Concept: Euclidean Distance
 
 -   Euclidean distance measures how far two points are from each other in a straight line.
@@ -97,6 +97,9 @@ Math Concept: Euclidean Distance
 <iframe src="https://editor.p5js.org/naman.rajoria19/full/souDanBHQ" height="600" width="800">
 
 </iframe>
+
+\
+<br><br>
 
 ### Process & Practise
 
@@ -138,8 +141,34 @@ We began by exploring natural patterns and generative algorithms, experimenting 
 </iframe>
 :::
 
-### Final Sketch
+<!-- Fourth Row (New Sketches) -->
 
-All of this came down for the production of this final sketch:
+::: {style="display: flex; justify-content: center; gap: 10px;"}
+<iframe src="https://editor.p5js.org/AanyaPandith/full/usSWguy77" width="400" height="300">
 
-::: <iframe src="https://editor.p5js.org/rayna20singh20/full/EH96o9aZE" width="400" height="300"></iframe> :::
+</iframe>
+
+</iframe>
+
+<iframe src="https://editor.p5js.org/AanyaPandith/full/oAVIGceXB" width="400" height="300">
+
+</iframe>
+
+</iframe>
+:::
+
+<!-- Fifth Row (New Sketches) -->
+
+::: {style="display: flex; justify-content: center; gap: 10px;"}
+<iframe src="https://editor.p5js.org/AanyaPandith/full/VVp5iAwis" width="400" height="300">
+
+</iframe>
+
+
+
+<iframe src="https://editor.p5js.org/AanyaPandith/full/ajavd9uWo" width="400" height="300">
+
+</iframe>
+:::
+
+------------------------------------------------------------------------
