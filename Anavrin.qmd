@@ -4,9 +4,9 @@ Rayna Singh, Diya Bijoy, Aanya Pandith, Naman Rajoria, Soumya Saboo
 
 ![Image of Generative Garden](garden.jpg)
 
-| ![](garden2.jpg) | ![](garden3.jpg) |
+| ![Image of Generative Garden](garden2.jpg) | ![Image of Generative Garden](garden3.jpg) |
 |------------------|------------------|
-| ![](garden4.jpg) | ![](garden5.jpg) |
+| ![Image of Generative Garden](garden4.jpg) | ![Image of Generative Garden](garden5.jpg) |
 
 [Link to P5.js code](https://editor.p5js.org/rayna20singh20/full/6R4QG9ZLs)
 
