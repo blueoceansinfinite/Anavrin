@@ -13,28 +13,21 @@ title: "Sing to the Hand"
 author: "Aanya, Varad, Harsh and Harshita"
 ---
 
-# **Concept Note**  
-O mind, what are you thinking? Why do you waver or get agitated?
-You believe in little things (or small-minded concepts) even though sages like Sanaka and others have spoken of the truth… why do you still cling to the transient, O mind?
-Truly follow the devotee, and realise that the real source of strength is that divine energy.
-~Dr. Balamuralikrishna
-Music transcends human psyche. Not everyone can sing, but everyone can feel emotions. The mark of a exceptional singer is to evocative the ubiquitous ‘Bhaav’ or emotion inside the heart. 
-Bhartanatyam as a dance form is celebrated and revered throughout the world. It’s foundation is on discipline and structure wrapped with devotion as a act of surrendering tot he supreme deity.
-Art can never die, it lives on the heart of the patreons. In this project we delve into Neural Networks, CNNs and error propagation. Keeping the technicals asides we are transforming the notion of classical and technological by bridging the gap with cybernetics and creative coding. 
-The project creates an elegant outcome at the intersection of Bhartanatyam and contemporary machine learning technologies. The creative outcome of our inquiry is an interactive mudra detector that detects mudras in real time and plays a musical note linked to the same.
-Bharatanatyam is full of symbolism, with every mudra holding multiple layers of narrative, spiritual, and emotional meaning. This project aims to document and reinterpret these gestures in the framework of artificial intelligence, not to supplant the meaning but to create new pathways of interactive storytelling.
-By providing technology with the ability to hear and reply to these ancient movements, the project presents a dynamic archive and performing space that is both informative and creative.
-By uniting code and culture, and gesture and generative response, this project transcends being a tool, it becomes a extant interface between the past and present. It is an offering from algorithms' precision to Bharatanatyam's flowing grace, from silicon's silence to the timbre of sound.
+# **Concept Note**
+
+O mind, what are you thinking? Why do you waver or get agitated? You believe in little things (or small-minded concepts) even though sages like Sanaka and others have spoken of the truth… why do you still cling to the transient, O mind? Truly follow the devotee, and realise that the real source of strength is that divine energy. \~Dr. Balamuralikrishna Music transcends human psyche. Not everyone can sing, but everyone can feel emotions. The mark of a exceptional singer is to evocative the ubiquitous ‘Bhaav’ or emotion inside the heart. Bhartanatyam as a dance form is celebrated and revered throughout the world. It’s foundation is on discipline and structure wrapped with devotion as a act of surrendering tot he supreme deity. Art can never die, it lives on the heart of the patreons. In this project we delve into Neural Networks, CNNs and error propagation. Keeping the technicals asides we are transforming the notion of classical and technological by bridging the gap with cybernetics and creative coding. The project creates an elegant outcome at the intersection of Bhartanatyam and contemporary machine learning technologies. The creative outcome of our inquiry is an interactive mudra detector that detects mudras in real time and plays a musical note linked to the same. Bharatanatyam is full of symbolism, with every mudra holding multiple layers of narrative, spiritual, and emotional meaning. This project aims to document and reinterpret these gestures in the framework of artificial intelligence, not to supplant the meaning but to create new pathways of interactive storytelling. By providing technology with the ability to hear and reply to these ancient movements, the project presents a dynamic archive and performing space that is both informative and creative. By uniting code and culture, and gesture and generative response, this project transcends being a tool, it becomes a extant interface between the past and present. It is an offering from algorithms' precision to Bharatanatyam's flowing grace, from silicon's silence to the timbre of sound.
 
 What is left is a reminder that technology, applied with discretion, can be not a disruptor of tradition but its humble interpreter. This mudra detector is a little more than technological design, but an homage, a rhythmically encoded paean to the expressive intelligence of the human body, the heart of music, and the timeless beauty of classical art.
 
-
----
+------------------------------------------------------------------------
 
 ## **1. Data Preparation**
-<iframe src="https://editor.p5js.org/AanyaPandith/full/QnfhgblhU"></iframe>
 
----
+<iframe src="https://editor.p5js.org/AanyaPandith/full/QnfhgblhU">
+
+</iframe>
+
+------------------------------------------------------------------------
 
 ## **2. Objective**
 
@@ -44,8 +37,7 @@ The main objective of this project is to develop a gesture recognition system th
 
 -React to every mudra with corresponding visual and audio components that mirror or enhance its meaning or emotional content.
 
--Develop a performative digital installation where movement from tradition meets computational interpretation.
----
+## -Develop a performative digital installation where movement from tradition meets computational interpretation.
 
 ## **3. Methodology**
 
@@ -55,42 +47,25 @@ The main objective of this project is to develop a gesture recognition system th
 
 -Real-Time Interaction: The trained model is incorporated into a p5.js sketch that does real-time classification off webcam input.
 
-Embodied Feedback System:
--A recognized mudra invokes:
--A distinctive sound (conventional instruments such as veena, flute, mridangam)
--A generative image (e.g., mandala designs, color waves, Sanskrit words)
--Optionally, physical lights with Arduino and RGB LEDs
----
+Embodied Feedback System: -A recognized mudra invokes: -A distinctive sound (conventional instruments such as veena, flute, mridangam) -A generative image (e.g., mandala designs, color waves, Sanskrit words) -Optionally, physical lights with Arduino and RGB LEDs ---
 
-**Tools and Techniques**
-p5.js, ml5.js, handpose model
-Custom sound samples and visual animations
-GitHub Pages or Glitch for online hosting
----
+**Tools and Techniques** p5.js, ml5.js, handpose model Custom sound samples and visual animations GitHub Pages or Glitch for online hosting ---
 
-**Expected Outcomes**:
--A working web-based demo that recognizes and reacts to 4–6 distinct Bharatanatyam mudras.
--A performative presentation showcasing the system in use — where mudras trigger audio-visual feedback.
--An online archive/interface that introduces users to mudras, their meanings, and their recognition through AI.
----
-## **4. Model Architecture**
-
-<iframe src="https://editor.p5js.org/AanyaPandith/full/qW8nv_-Eh"></iframe>
----
+**Expected Outcomes**: -A working web-based demo that recognizes and reacts to 4–6 distinct Bharatanatyam mudras. -A performative presentation showcasing the system in use — where mudras trigger audio-visual feedback. -An online archive/interface that introduces users to mudras, their meanings, and their recognition through AI. 31b8e172-b470-440e-83d8-e6b185028602:dAB5AHAAZQA6AFoAUQBBAHgAQQBEAGcAQQBNAFEAQQA1AEEARABZAEEATQBBAEEAMQBBAEMAMABBAE0AQQBCAGgAQQBHAE0AQQBaAEEAQQB0AEEARABRAEEAWgBnAEIAaABBAEcAVQBBAEwAUQBBADQAQQBHAEkAQQBPAFEAQQA1AEEAQwAwAEEATwBRAEIAagBBAEQARQBBAFkAZwBBADMAQQBHAEkAQQBaAEEAQQAzAEEARwBNAEEATQBBAEIAbQBBAEQARQBBAAoAcABvAHMAaQB0AGkAbwBuADoATgBBAEEAegBBAEQAawBBAE0AZwBBAD0ACgBwAHIAZQBmAGkAeAA6AAoAcwBvAHUAcgBjAGUAOgBMAFEAQQB0AEEAQwAwAEEAQwBnAEEAagBBAEMATQBBAEkAQQBBAHEAQQBDAG8AQQBOAEEAQQB1AEEAQwBBAEEAVABRAEIAdgBBAEcAUQBBAFoAUQBCAHMAQQBDAEEAQQBRAFEAQgB5AEEARwBNAEEAYQBBAEIAcABBAEgAUQBBAFoAUQBCAGoAQQBIAFEAQQBkAFEAQgB5AEEARwBVAEEASwBnAEEAcQBBAEEAbwBBAEMAZwBBADgAQQBHAGsAQQBaAGcAQgB5AEEARwBFAEEAYgBRAEIAbABBAEMAQQBBAGMAdwBCAHkAQQBHAE0AQQBQAFEAQQBpAEEARwBnAEEAZABBAEIAMABBAEgAQQBBAGMAdwBBADYAQQBDADgAQQBMAHcAQgBsAEEARwBRAEEAYQBRAEIAMABBAEcAOABBAGMAZwBBAHUAQQBIAEEAQQBOAFEAQgBxAEEASABNAEEATABnAEIAdgBBAEgASQBBAFoAdwBBAHYAQQBFAEUAQQBZAFEAQgB1AEEASABrAEEAWQBRAEIAUQBBAEcARQBBAGIAZwBCAGsAQQBHAGsAQQBkAEEAQgBvAEEAQwA4AEEAWgBnAEIAMQBBAEcAdwBBAGIAQQBBAHYAQQBIAEUAQQBWAHcAQQA0AEEARwA0AEEAZABnAEIAZgBBAEMAMABBAFIAUQBCAG8AQQBDAEkAQQBQAGcAQQA4AEEAQwA4AEEAYQBRAEIAbQBBAEgASQBBAFkAUQBCAHQAQQBHAFUAQQBQAGcAQQBLAEEAQwAwAEEATABRAEEAdABBAEEAPQA9AAoAcwB1AGYAZgBpAHgAOgA=:31b8e172-b470-440e-83d8-e6b185028602
 
 ## **5. Training**
 
-<iframe src="https://editor.p5js.org/Varad404error/full/hv1j0fmfa"></iframe>
----
+## <iframe src="https://editor.p5js.org/Varad404error/full/hv1j0fmfa"></iframe>
 
 ## **6. HandPose()**
 
-<iframe src="https://editor.p5js.org/Has2204/full/yjQk0fHh9"></iframe>
----
+## <iframe src="https://editor.p5js.org/Has2204/full/yjQk0fHh9"></iframe>
 
 ## **7. Final Outcome**
-<iframe src="https://editor.p5js.org/AanyaPandith/full/eMu9W4Jnh"></iframe>
 
+<iframe src="https://editor.p5js.org/AanyaPandith/full/eMu9W4Jnh">
+
+</iframe>
 
 # Footer
 
