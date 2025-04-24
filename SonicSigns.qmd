@@ -9,7 +9,7 @@ format: html
 ---
 
 ---
-title: "Sing to the Hand"
+title: "Sonic Signs"
 author: "Aanya, Varad, Harsh and Harshita"
 ---
 
@@ -51,17 +51,33 @@ Embodied Feedback System: -A recognized mudra invokes: -A distinctive sound (con
 
 **Tools and Techniques** p5.js, ml5.js, handpose model Custom sound samples and visual animations GitHub Pages or Glitch for online hosting ---
 
-**Expected Outcomes**: -A working web-based demo that recognizes and reacts to 4–6 distinct Bharatanatyam mudras. -A performative presentation showcasing the system in use — where mudras trigger audio-visual feedback. -An online archive/interface that introduces users to mudras, their meanings, and their recognition through AI. 31b8e172-b470-440e-83d8-e6b185028602:dAB5AHAAZQA6AFoAUQBBAHgAQQBEAGcAQQBNAFEAQQA1AEEARABZAEEATQBBAEEAMQBBAEMAMABBAE0AQQBCAGgAQQBHAE0AQQBaAEEAQQB0AEEARABRAEEAWgBnAEIAaABBAEcAVQBBAEwAUQBBADQAQQBHAEkAQQBPAFEAQQA1AEEAQwAwAEEATwBRAEIAagBBAEQARQBBAFkAZwBBADMAQQBHAEkAQQBaAEEAQQAzAEEARwBNAEEATQBBAEIAbQBBAEQARQBBAAoAcABvAHMAaQB0AGkAbwBuADoATgBBAEEAegBBAEQAawBBAE0AZwBBAD0ACgBwAHIAZQBmAGkAeAA6AAoAcwBvAHUAcgBjAGUAOgBMAFEAQQB0AEEAQwAwAEEAQwBnAEEAagBBAEMATQBBAEkAQQBBAHEAQQBDAG8AQQBOAEEAQQB1AEEAQwBBAEEAVABRAEIAdgBBAEcAUQBBAFoAUQBCAHMAQQBDAEEAQQBRAFEAQgB5AEEARwBNAEEAYQBBAEIAcABBAEgAUQBBAFoAUQBCAGoAQQBIAFEAQQBkAFEAQgB5AEEARwBVAEEASwBnAEEAcQBBAEEAbwBBAEMAZwBBADgAQQBHAGsAQQBaAGcAQgB5AEEARwBFAEEAYgBRAEIAbABBAEMAQQBBAGMAdwBCAHkAQQBHAE0AQQBQAFEAQQBpAEEARwBnAEEAZABBAEIAMABBAEgAQQBBAGMAdwBBADYAQQBDADgAQQBMAHcAQgBsAEEARwBRAEEAYQBRAEIAMABBAEcAOABBAGMAZwBBAHUAQQBIAEEAQQBOAFEAQgBxAEEASABNAEEATABnAEIAdgBBAEgASQBBAFoAdwBBAHYAQQBFAEUAQQBZAFEAQgB1AEEASABrAEEAWQBRAEIAUQBBAEcARQBBAGIAZwBCAGsAQQBHAGsAQQBkAEEAQgBvAEEAQwA4AEEAWgBnAEIAMQBBAEcAdwBBAGIAQQBBAHYAQQBIAEUAQQBWAHcAQQA0AEEARwA0AEEAZABnAEIAZgBBAEMAMABBAFIAUQBCAG8AQQBDAEkAQQBQAGcAQQA4AEEAQwA4AEEAYQBRAEIAbQBBAEgASQBBAFkAUQBCAHQAQQBHAFUAQQBQAGcAQQBLAEEAQwAwAEEATABRAEEAdABBAEEAPQA9AAoAcwB1AGYAZgBpAHgAOgA=:31b8e172-b470-440e-83d8-e6b185028602
+**Expected Outcomes**: -A working web-based demo that recognizes and reacts to 4–6 distinct Bharatanatyam mudras. -A performative presentation showcasing the system in use — where mudras trigger audio-visual feedback. -An online archive/interface that introduces users to mudras, their meanings, and their recognition through AI.
 
 ## **5. Training**
 
 ## <iframe src="https://editor.p5js.org/Varad404error/full/hv1j0fmfa"></iframe>
 
+`<iframe src="https://editor.p5js.org/AanyaPandith/full/sapBesD45"`{=html}
+
+</iframe>
+
 ## **6. HandPose()**
 
 ## <iframe src="https://editor.p5js.org/Has2204/full/yjQk0fHh9"></iframe>
 
-## **7. Final Outcome**
+Prediction
+
+`<iframe src="https://editor.p5js.org/AanyaPandith/full/XA3Hr95LZ"`{=html}
+
+</iframe>
+
+## 7. Mudra Detection
+
+`<iframe src="https://editor.p5js.org/AanyaPandith/full/GKVsSAEbw"`{=html}
+
+</iframe>
+
+## **8. Final Outcome**
 
 <iframe src="https://editor.p5js.org/AanyaPandith/full/eMu9W4Jnh">
 
