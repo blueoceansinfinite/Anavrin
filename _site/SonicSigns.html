@@ -8,7 +8,7 @@
 
 <meta name="author" content="Aanya, Varad, Harsh and Harshita">
 
-<title>Sing to the Hand – Anavrin</title>
+<title>Sonic Signs – Anavrin</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -117,11 +117,14 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#data-preparation" id="toc-data-preparation" class="nav-link" data-scroll-target="#data-preparation"><strong>1. Data Preparation</strong></a></li>
   <li><a href="#objective" id="toc-objective" class="nav-link" data-scroll-target="#objective"><strong>2. Objective</strong></a></li>
+  <li><a href="#develop-a-performative-digital-installation-where-movement-from-tradition-meets-computational-interpretation." id="toc-develop-a-performative-digital-installation-where-movement-from-tradition-meets-computational-interpretation." class="nav-link" data-scroll-target="#develop-a-performative-digital-installation-where-movement-from-tradition-meets-computational-interpretation.">-Develop a performative digital installation where movement from tradition meets computational interpretation.</a></li>
   <li><a href="#methodology" id="toc-methodology" class="nav-link" data-scroll-target="#methodology"><strong>3. Methodology</strong></a></li>
-  <li><a href="#model-architecture" id="toc-model-architecture" class="nav-link" data-scroll-target="#model-architecture"><strong>4. Model Architecture</strong></a></li>
   <li><a href="#training" id="toc-training" class="nav-link" data-scroll-target="#training"><strong>5. Training</strong></a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><iframe src="https://editor.p5js.org/Varad404error/full/hv1j0fmfa"></iframe></a></li>
   <li><a href="#handpose" id="toc-handpose" class="nav-link" data-scroll-target="#handpose"><strong>6. HandPose()</strong></a></li>
-  <li><a href="#final-outcome" id="toc-final-outcome" class="nav-link" data-scroll-target="#final-outcome"><strong>7. Final Outcome</strong></a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"><iframe src="https://editor.p5js.org/Has2204/full/yjQk0fHh9"></iframe></a></li>
+  <li><a href="#mudra-detection" id="toc-mudra-detection" class="nav-link" data-scroll-target="#mudra-detection">7. Mudra Detection</a></li>
+  <li><a href="#final-outcome" id="toc-final-outcome" class="nav-link" data-scroll-target="#final-outcome"><strong>8. Final Outcome</strong></a></li>
   </ul></li>
   <li><a href="#footer" id="toc-footer" class="nav-link" data-scroll-target="#footer">Footer</a></li>
   </ul>
@@ -132,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sing to the Hand</h1>
+<h1 class="title">Sonic Signs</h1>
 </div>
 
 
@@ -171,41 +174,43 @@ ul.task-list li input[type="checkbox"] {
 <p>The main objective of this project is to develop a gesture recognition system that is able to:</p>
 <p>-Recognize major Bharatanatyam mudras via a webcam with the help of AI.</p>
 <p>-React to every mudra with corresponding visual and audio components that mirror or enhance its meaning or emotional content.</p>
-<p>-Develop a performative digital installation where movement from tradition meets computational interpretation.</p>
-<hr>
+</section>
+<section id="develop-a-performative-digital-installation-where-movement-from-tradition-meets-computational-interpretation." class="level2">
+<h2 class="anchored" data-anchor-id="develop-a-performative-digital-installation-where-movement-from-tradition-meets-computational-interpretation.">-Develop a performative digital installation where movement from tradition meets computational interpretation.</h2>
 </section>
 <section id="methodology" class="level2">
 <h2 class="anchored" data-anchor-id="methodology"><strong>3. Methodology</strong></h2>
 <p>-Data Collection: A labeled dataset of Bharatanatyam mudra samples is generated with the webcam and the handpose model of ml5.js. A mudra is captured through each of the 21 keypoints of the hand.</p>
 <p>-Model Training: A neural network is trained custom with ml5.neuralNetwork to classify the gesture according to these keypoints.</p>
 <p>-Real-Time Interaction: The trained model is incorporated into a p5.js sketch that does real-time classification off webcam input.</p>
-<p>Embodied Feedback System: -A recognized mudra invokes: -A distinctive sound (conventional instruments such as veena, flute, mridangam) -A generative image (e.g., mandala designs, color waves, Sanskrit words) -Optionally, physical lights with Arduino and RGB LEDs</p>
-<hr>
-<p><strong>Tools and Techniques</strong> p5.js, ml5.js, handpose model Custom sound samples and visual animations GitHub Pages or Glitch for online hosting</p>
-<hr>
+<p>Embodied Feedback System: -A recognized mudra invokes: -A distinctive sound (conventional instruments such as veena, flute, mridangam) -A generative image (e.g., mandala designs, color waves, Sanskrit words) -Optionally, physical lights with Arduino and RGB LEDs —</p>
+<p><strong>Tools and Techniques</strong> p5.js, ml5.js, handpose model Custom sound samples and visual animations GitHub Pages or Glitch for online hosting —</p>
 <p><strong>Expected Outcomes</strong>: -A working web-based demo that recognizes and reacts to 4–6 distinct Bharatanatyam mudras. -A performative presentation showcasing the system in use — where mudras trigger audio-visual feedback. -An online archive/interface that introduces users to mudras, their meanings, and their recognition through AI.</p>
-<hr>
-</section>
-<section id="model-architecture" class="level2">
-<h2 class="anchored" data-anchor-id="model-architecture"><strong>4. Model Architecture</strong></h2>
-<iframe src="https://editor.p5js.org/AanyaPandith/full/qW8nv_-Eh">
-</iframe>
-<hr>
 </section>
 <section id="training" class="level2">
 <h2 class="anchored" data-anchor-id="training"><strong>5. Training</strong></h2>
-<iframe src="https://editor.p5js.org/Varad404error/full/hv1j0fmfa">
-</iframe>
-<hr>
 </section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><iframe src="https://editor.p5js.org/Varad404error/full/hv1j0fmfa"></iframe></h2>
+<p><iframe src="https://editor.p5js.org/AanyaPandith/full/sapBesD45" <="" p="">
+</iframe>
+</p></section>
 <section id="handpose" class="level2">
 <h2 class="anchored" data-anchor-id="handpose"><strong>6. HandPose()</strong></h2>
-<iframe src="https://editor.p5js.org/Has2204/full/yjQk0fHh9">
-</iframe>
-<hr>
 </section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"><iframe src="https://editor.p5js.org/Has2204/full/yjQk0fHh9"></iframe></h2>
+<p>Prediction</p>
+<p><iframe src="https://editor.p5js.org/AanyaPandith/full/XA3Hr95LZ" <="" p="">
+</iframe>
+</p></section>
+<section id="mudra-detection" class="level2">
+<h2 class="anchored" data-anchor-id="mudra-detection">7. Mudra Detection</h2>
+<p><iframe src="https://editor.p5js.org/AanyaPandith/full/GKVsSAEbw" <="" p="">
+</iframe>
+</p></section>
 <section id="final-outcome" class="level2">
-<h2 class="anchored" data-anchor-id="final-outcome"><strong>7. Final Outcome</strong></h2>
+<h2 class="anchored" data-anchor-id="final-outcome"><strong>8. Final Outcome</strong></h2>
 <iframe src="https://editor.p5js.org/AanyaPandith/full/eMu9W4Jnh">
 </iframe>
 </section>
